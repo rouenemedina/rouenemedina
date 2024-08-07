@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PhotoNest](https://github.com/rouenemedina/rouene-medina-photonest)
 
-- 🌱 I’m currently learning **UI/UX Design, CS50**
+- 🌱 I’m currently learning **CS50, UI/UX Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rouenemedina](https://github.com/rouenemedina)
 
