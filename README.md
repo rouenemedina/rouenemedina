@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rouene</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">software developer / photography and fashion enthusiast</h3>
 
 - 🔭 I’m currently working on [PhotoNest](https://github.com/rouenemedina/rouene-medina-photonest)
 
